@@ -1,0 +1,58 @@
+# NovaCast Studio
+
+> NovaCast Studio creates AI-powered, UGC-style short-form video ads, hooks, and scripts for DTC eCommerce brands and growth marketing teams. The service is designed to help teams test creative concepts without waiting for products to be shipped to creators. Starter first delivery is targeted within 72 hours after brief approval and required asset readiness.
+
+## About
+
+- NovaCast Studio is a creative service for paid social testing, not an ad buying platform.
+- The work includes short-form video ads, hook and script concepts, editing, and captioned or clean-caption exports, as scoped per package.
+- Creative is produced from an approved brief and customer-provided product information and brand assets.
+- AI-generated visuals may have limitations and may not look identical to creator-shot footage. Portfolio visuals on the landing page are AI-generated concepts, not client work or performance claims.
+
+## Services and packages
+
+- **Starter Test Pack:** 3 video ads, 15–35 seconds each, with 3 distinct hooks. First delivery is targeted within 72 hours after brief approval and required asset readiness. Includes one text or hook revision before production and one style revision after delivery. Commercial usage terms are agreed per project.
+- **Growth Creative Pack:** 8–12 video ads per month, a hook and angle matrix, and weekly delivery batches. English or selected Arabic dialects may be requested; confirm availability and scope before kickoff.
+- **Ad Machine Retainer:** 20–30 video ads per month, weekly planning, and an ongoing creative backlog. Turnaround, review cadence, and revision scope follow the agreed SLA.
+- Pricing is provided after scope review; the landing page does not publish package prices.
+- Platform-specific formats, including TikTok Spark Ads, must be confirmed for each project and depend on platform requirements, eligible creator posts, and authorization.
+
+## Process and usage
+
+- The workflow covers briefing, hook and script review, AI-assisted production, editing and captions, delivery, and iteration within the agreed scope.
+- Customers provide the product page, target market, brand guidance, audience, approved claims, and topics to avoid.
+- Usage rights and restrictions are defined in project terms. Customers are responsible for permission to use supplied logos, product assets, likenesses, and voices.
+- Platform acceptance and advertising results are not guaranteed. Performance depends on the offer, audience, creative, and media buying.
+
+## Frequently asked questions
+
+### Will the videos look AI-generated?
+
+AI-generated content can have visible limitations and may not look identical to creator-shot footage. NovaCast reviews pacing, voice, and visuals and can share examples so customers can assess fit.
+
+### What do you need from me?
+
+Share the product page, target market, brand guidance, audience, and claims or topics to avoid. NovaCast confirms any additional assets needed before production.
+
+### Who can use the finished videos?
+
+Usage rights and restrictions are set out in project terms. Customers are responsible for having permission to use supplied logos, product assets, likenesses, and voices. Platform acceptance is not guaranteed.
+
+### How long does delivery take?
+
+Starter first delivery is targeted within 72 hours after brief approval and asset readiness. Growth is delivered weekly; Retainer timing follows the agreed SLA. Feedback timing can affect the schedule.
+
+### Can I request revisions?
+
+Revision scope is agreed before kickoff. The standard workflow includes one text or hook revision before production and one style revision after delivery. A new angle or scenario is scoped as a new version.
+
+## Key pages
+
+- [NovaCast Studio landing page](https://novacaststudio.com/): Service overview, creative examples, packages, process, FAQs, and lead form.
+- [Deliverables](https://novacaststudio.com/#deliverables): Short-form videos, hooks and scripts, and edited exports.
+- [How it works](https://novacaststudio.com/#how): Project workflow.
+- [Creative examples](https://novacaststudio.com/#portfolio): AI-generated concept visuals; not client case studies.
+- [Packages](https://novacaststudio.com/#packages): Package scope and pricing approach.
+- [FAQ](https://novacaststudio.com/#faq): Service questions and answers.
+- [Contact](https://novacaststudio.com/#contact): Request a free hook sheet with three hooks and two creative angles.
+- [Email](mailto:hello@novacaststudio.com): hello@novacaststudio.com
