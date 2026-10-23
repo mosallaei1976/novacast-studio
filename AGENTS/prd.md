@@ -1,155 +1,102 @@
-prd.md — NovaCast Studio (Landing + Offer) — v0.1
-1) هدف (Goal)
-ساخت یک لندینگ HTML5 سریع و شفاف برای جذب لید از بازار GCC (کشورهای عربی) و US و تبدیل آن به جلسه/پرداخت اولیه. زمان تحویل بسته به پکیج است: تحویل اول Starter تا 72 ساعت پس از تایید brief؛ Growth هفتگی؛ Retainer طبق SLA توافق‌شده.
+# NovaCast Studio — Landing Page PRD
 
-2) تعریف محصول
-Product: یک صفحه لندینگ (single-page) + فرم/CTA‌ های مشخص + مسیر تماس چندکاناله.
-Offer: تولید ویدیوهای UGC تبلیغاتی با AI (به‌همراه هوک، اسکریپت، ادیت سبک، زیرنویس، خروجی آماده Ads).
-Positioning: جایگزین سریع‌تر و قابل‌تست‌تر از UGC سنتی و حتی ارزان‌تر از استخدام چند کریتور.
-3) بازار هدف (Target)
-Primary
+**Version:** 0.3
 
-Shopify / DTC brands در US
-E-commerce در GCC (امارات/عربستان/کویت/قطر) با تمرکز روی TikTok/IG Reels/Snap
-Secondary
+**Reference:** Current `index.html`; this document does not authorize changes to it.
+**Status:** Requirements for the current WhatsApp-first, paid-pilot funnel.
 
-App/SaaS‌ های B2C که نیاز به Ads سریع برای تست دارند
-4) ICP (Ideal Customer Profile)
-10k–500k$/mo revenue یا در حال رشد
-خرج تبلیغات ماهانه: 3k–100k$
-نیاز مداوم به Creative Testing (هوک‌های متعدد / نسخه‌های مختلف)
-تیم کوچک مارکتینگ یا فریلنسر Media Buyer که همیشه creative کم دارد
-5) مشکلات اصلی مشتری (Pain Points)
-UGC واقعی کند است (روزها/هفته‌ها)
-هماهنگی با کریتور و کیفیت خروجی غیرقابل پیش‌بینی است
-برای A/B تست باید چند کریتور و چند تدوینگر گرفت
-برندها creative fatigue می‌گیرند و CPA بالا می‌رود
-6) وعده (Promise) / پیام اصلی (Core Message)
-“Starter first delivery targeted within 72 hours of brief approval; Growth is delivered weekly and Retainer timing follows its agreed SLA.”
-“Hook-first creatives designed for testing and scaling.”
-برای GCC یک نسخه عربی هم در آینده: (فعلاً در HTML با سوییچ زبان آماده می‌کنیم)
-7) USP ها (Unique Selling Points)
-تحویل سریع + چند نسخه از هر سناریو (Hook Variations)
-کنترل‌پذیری بالا (script → shot → voice → lip sync) با فرآیند استاندارد
-خروجی «آماده تبلیغات» (9:16 / 1:1 / 16:9)
-Creative Testing Pack مخصوص Media Buyers
-امکان Voice با لهجه‌های عربی (برای GCC) + انگلیسی (برای US)
-مدل قیمت‌گذاری شفاف (پکیج، نه “هرچی شد”)
-8) خدمات (What We Deliver)
-حداقل Deliverable استاندارد برای هر ویدیو:
+## 1. Product goal
 
-1 ویدیوی 15–35 ثانیه
-نسخه با زیرنویس Burn-in و نسخه clean-caption (بدون زیرنویس)
-خروجی 1080×1920 برای Reels/TikTok
-نسخه با هوک جایگزین طبق تعداد و دامنه توافق‌شده در پکیج
-زبان/لهجه و فرمت‌های دیگر در brief تایید می‌شوند و به دسترس‌پذیری وابسته‌اند.
-Add-ons:
+Convert qualified B2B buyers into paid Starter Test Packs and suitable monthly retainers. Reduce low-intent inquiries through clear package scope, qualification, and direct WhatsApp conversation.
 
-3–5 Hook variations
-2–3 زاویه پیام (Angle)
-Voice‌ متفاوت / لهجه متفاوت
-Variant برای Snapchat / TikTok Spark / Meta
-9) پکیج‌ها (Offer Structure)
-قیمت را فعلاً «Call for pricing» می‌گذاریم تا با کیس‌ها قفل نشوی، ولی ساختار پکیج را نمایش می‌دهیم.
+## 2. Audience and positioning
 
-Starter Test Pack
+- **Primary:** US DTC/Shopify brands and GCC advertisers, especially growth marketers and paid media buyers.
+- **Secondary:** B2C apps with an ongoing need for short-form paid-social creative.
+- **Positioning:** Premium, minimalist, performance-driven AI UGC-style creative for hook and angle testing.
+- **Site language:** English only. Arabic is not a website language toggle; Khaleeji/Gulf Arabic is a production option confirmed per project and market.
 
-3 ویدیو
-3 هوک متفاوت
-تحویل اول تا 72 ساعت پس از تایید brief و آماده بودن دارایی‌های لازم
-یک اصلاح متن/هوک پیش از تولید و یک اصلاح سبک پس از تحویل
-شرایط استفاده تجاری در توافق پروژه مشخص می‌شود
-مناسب تست اولیه یک محصول
-Growth Creative Pack
+## 3. Core promise and claim boundaries
 
-8–12 ویدیوی 15–35 ثانیه در ماه
-Hook & angle matrix؛ تعداد دقیق هوک‌ها در brief مشخص می‌شود
-تحویل در بسته‌های هفتگی
-نسخه‌های زیرنویس‌دار و clean-caption با خروجی 1080×1920
-دامنه اصلاحات و کانال پشتیبانی پیش از شروع توافق می‌شود
-مناسب scaling
-Ad Machine (Retainer)
+Create hook-first short-form creative for paid-media testing with rapid turnaround. State the first delivery as **48–72 hours depending on brief approval and required asset readiness**. Confirm the schedule for each project; it is not an unconditional guarantee.
 
-20–30 ویدیوی 15–35 ثانیه در ماه
-همکاری نزدیک با media buyer
-backlog و تولید مداوم
-SLA، ریتم تحویل و دامنه اصلاحات پیش از شروع توافق می‌شود
-10) فرآیند کار (Process)
-Brief (هدف کمپین + محصول + پرسونای مخاطب)
-Hook & Script (چند سناریو، انتخاب نهایی)
-Production (AI cast/voice/shot)
-Polish (subtitles + pacing)
-Delivery (Google Drive/Frame.io + فایل‌ها)
-Iteration (نسخه‌های جدید براساس نتایج Ads)
-11) اعتمادسازی (Trust عناصر)
-نمونه کار (3–6 ویدیو)
-“How it works” کوتاه و قابل اسکن
-FAQ شفاف: حقوق استفاده، ریسک پلتفرم، اصلاحات
-“Performance mindset”: ما creative برای تست می‌سازیم نه فقط قشنگی
-12) صفحات/سکشن‌های لندینگ (Information Architecture)
-Hero (Headline + Subheadline + CTA)
-Social Proof (لوگو/آمار/Quote — اگر نداری placeholder)
-What you get (Deliverables)
-Packages (Starter/Growth/Retainer)
-Portfolio (ویدیوها)
-How it works (5 قدم)
-FAQ
-CTA نهایی + Contact section + Social links footer
-13) CTA ها (Conversion)
-Primary CTA:
+- Do not guarantee ROAS, CPA, CTR, sales, conversion lift, platform approval, or elimination of creative fatigue.
+- Do not present synthetic testimonials as personal use or real customer endorsements unless compliant, substantiated, and approved for the relevant market and placement.
+- Usage rights, permissions for supplied assets, and platform acceptance are subject to project terms and platform rules; acceptance is not guaranteed.
+- No website lead-capture forms or email contact routes. WhatsApp is the sole landing-page conversion route.
 
-“Book a 15‑min call”
-Secondary CTA:
+## 4. Page sections (mapped to `wireframe.md`)
 
-“Get a free hook sheet (3 hooks)” (lead magnet)
-Tertiary:
+1. Sticky navigation with brand, section links, and one **Chat on WhatsApp** CTA.
+2. Hero with hook-first AI UGC value proposition, paid-media context, a single WhatsApp CTA, and optional non-conversion “View Samples” scroll link.
+3. Traditional vs NovaCast workflow comparison.
+4. Creative Showcase: 9:16 horizontal scroll-snap video carousel.
+5. Four-step process: brief → hooks/angles approval → production → delivery.
+6. Three package cards: Starter, Growth, Retainer; each CTA opens WhatsApp.
+7. FAQ accordion.
+8. Final WhatsApp CTA banner.
+9. Minimal footer with legal/commercial terms note.
 
-“WhatsApp us” برای GCC
-“DM on Instagram”
-14) لید مگنت (Lead Magnet)
-Free Hook Sheet (3 hooks + 2 angles) برای یک محصول
-شرط: لینک محصول + بازار هدف + آدرس ایمیل/واتساپ
-15) کانال‌ها و شبکه‌های اجتماعی (Social)
-در سایت آیکن/لینک برای:
+## 5. Conversion and measurement
 
-Instagram
-TikTok
-YouTube
-LinkedIn
-X (Twitter)
-Snapchat (مهم برای GCC)
-WhatsApp (مهم برای GCC)
-Telegram (اختیاری، برای منطقه)
-Email
-16) KPI ها
-CTR روی CTA
-Conversion به Lead (فرم/کال)
-نرخ تبدیل Lead به پروژه آزمایشی
-زمان تحویل واقعی
-Retention به پکیج ماهانه
-17) محدودیت‌ها / ریسک‌ها
-قوانین Ads platforms و ادعاهای پزشکی/مالی
-محدودیت‌های مدل‌های AI (ریئالیسم/کالبدشناسی/برندهای حساس)
-حقوق استفاده از لوگو/چهره/صدا
-نیاز به تایید نهایی مشتری قبل از انتشار
-18) Acceptance Criteria
-لندینگ در موبایل عالی (Core Web Vitals خوب)
-CTA در 2 اسکرول اول دیده شود
-سوشال لینک‌ها در هدر/فوتر
-فرم لید ساده و سریع
-یک بخش Portfolio با ویدیوهای embed یا placeholder
+- **Only conversion event:** click on a WhatsApp link (`whatsapp_click`). Apply this event consistently to all WhatsApp CTAs; optionally attach a non-conversion `cta_location` property such as `nav`, `hero`, `package`, `final`, or `floating`.
+- Use a WhatsApp deep link with a prefilled message. Production URL pattern: `https://wa.me/PHONE_NUMBER?text=...&utm_source=website&utm_medium=whatsapp&utm_campaign=paid_pilot`.
+- Keep the phone number configurable; replace the project’s `YOUR_PHONE_NUMBER` placeholder before launch.
+- Track the click using Plausible or GA4, subject to the site’s privacy configuration. Validate that click tracking works before deployment.
+- Attribute the entry page’s UTM values in analytics; preserve campaign/source context in the WhatsApp link where supported. Do not treat page views, carousel interaction, or video playback as additional conversion events.
+- Primary KPI: WhatsApp CTA click-through rate from landing page sessions. Business outcome review may separately inspect qualified conversations and paid-pilot sales without defining them as additional site conversion events.
 
-19) بازبینی وضعیت معیارهای پذیرش (بررسی فایل‌های موجود)
-دامنه بررسی: نمونه اولیه HTML5 و چهار تصویر بهینه‌شده در `index.html` و `assets/` بررسی شد. PDF ارائه‌شده (۷ صفحه، خروجی چاپ دسکتاپ) نیز بصری مرور شد؛ پیش‌نمایش تعاملی مرورگر، نسخه موبایل و داده‌های کارایی هنوز سنجیده نشده‌اند.
-- موبایل و Core Web Vitals: طراحی responsive و موبایل‌فرست در CSS وجود دارد؛ Core Web Vitals و نمایش روی دستگاه‌های واقعی اندازه‌گیری نشده‌اند.
-- دیده‌شدن CTA در دو اسکرول اول: CTA در Hero و نوار ثابت موبایل تعبیه شده؛ موقعیت واقعی در مرورگر باید بازبینی شود.
-- لینک‌های اجتماعی در هدر و فوتر: سه آیکن در هدر و هشت آیکن در فوتر هستند؛ همه به آدرس‌های موقت example.com می‌روند.
-- فرم ساده و سریع: چهار فیلد نام، ایمیل، URL و بازار دارد؛ ارسال فعلاً با mailto انجام می‌شود و برای دریافت مطمئن لید باید به backend یا سرویس فرم متصل شود.
-- نمونه‌کار embed یا placeholder: سه تصویر مفهومی تولیدشده با AI در کارت‌ها قرار گرفته‌اند و placeholder بودنشان مشخص است؛ ویدیو یا embed واقعی نیستند.
-نتیجه: ساختار اصلی صفحه آماده است؛ قواعد چاپ برای جلوگیری از جداشدن کارت‌ها و عنوان‌ها افزوده شده اما PDF پس از این تغییر دوباره تولید نشده است. پیش از انتشار باید نمایش تعاملی موبایل و کارایی اندازه‌گیری شود، لینک‌های موقت جایگزین شوند، فرم به سرویس واقعی وصل شود و تصاویر با نمونه‌کارهای تاییدشده تعویض شوند.
+## 6. Intake requirements
 
-20) قواعد ادعاهای بازاریابی
-- نتیجه تبلیغ، ROAS، CPA، نرخ تبدیل یا جلوگیری از خستگی تبلیغ تضمین نمی‌شود؛ از زبان «طراحی‌شده برای تست» استفاده شود.
-- کیفیت/واقع‌نمایی AI، سازگاری پلتفرم‌ها و دسترسی به لهجه‌ها قطعی فرض نشود؛ محدودیت‌ها و availability ذکر شود.
-- حقوق استفاده، مجوز دارایی‌ها و رضایت چهره/صدا طبق قرارداد و تایید مشتری تعیین می‌شود؛ از ادعای مالکیت دائمی و بی‌قیدوشرط پرهیز شود.
-- زمان‌بندی از تایید brief و دریافت دارایی‌های لازم محاسبه می‌شود؛ تا 72 ساعت فقط هدف تحویل اول Starter است، نه تضمین همه پکیج‌ها.
+Collect through the WhatsApp conversation before production:
+
+- Product/store URL and product/SKU to feature.
+- Target geography, audience, placement, and campaign objective.
+- Offer, price, product benefits, approved CTA, and relevant product facts.
+- Brand assets and guidance: logo, product imagery, colors, voice, examples, and approved likeness/voice permissions.
+- Do-not-say list, claim substantiation, regulated categories, and other angle constraints.
+- Required language and market dialect; confirm Khaleeji/Gulf Arabic availability and suitability per project.
+- Desired launch date, review owner, asset readiness, and budget fit for a paid pilot.
+
+## 7. Package requirements
+
+Public pricing may remain quote-based. Confirm the exact scope, schedule, rights, and review windows before production.
+
+| Package | Deliverables | Schedule and revisions |
+|---|---|---|
+| Starter Test Pack | 3 short-form videos, typically 15–35 seconds, with distinct hooks; burn-in captions and clean-caption exports as scoped | First delivery in 48–72 hours depending on approved brief and asset readiness; one text/hook revision pre-production and one style revision post-delivery unless otherwise agreed |
+| Growth Creative Pack | 8–12 videos per month, agreed hook/angle matrix, captioned and clean-caption exports as scoped | Weekly batches; language, volume, and revision scope agreed before kickoff |
+| Ad Machine Retainer | 20–30 videos per month, ongoing planning with media buyer and creative backlog | SLA, approvals, and revision scope agreed before kickoff |
+
+## 8. Creative Showcase requirements
+
+- Horizontal carousel with CSS scroll snap, swipe/touch support, and accessible previous/next controls.
+- Six vertical cards based on the current page’s examples; each card uses 9:16 media, poster image, niche/hook labels, and a replaceable MP4 source.
+- Videos use `muted`, `loop`, `playsinline`, and `preload="none"`.
+- IntersectionObserver starts playback only when a card is at least 60% visible and pauses it when it falls below the threshold or leaves view. Only one video may play at a time.
+- Concept media must be identified as concept work, not client results or proof.
+
+## 9. Functional, accessibility, and responsive requirements
+
+- English copy throughout the site; dialect options appear only as production capabilities.
+- Mobile-first layout with usable sticky navigation and no horizontal page overflow.
+- Maintain keyboard focus visibility, descriptive control names, semantic headings, and readable contrast.
+- FAQ answers remain available in the document structure when collapsed; buttons expose accurate expanded state and control relationships.
+- Provide explicit image dimensions and descriptive alt text. Video controls must remain operable on touch and keyboard.
+
+## 10. Acceptance criteria
+
+- [ ] Every landing-page conversion button opens WhatsApp with a prefilled message; no other conversion CTA is present.
+- [ ] No web lead-capture forms or email contact routes exist.
+- [ ] Site content is English-only; Khaleeji/Gulf Arabic is clearly an optional production language/dialect.
+- [ ] Hero communicates hook-first AI UGC for paid-media testing and rapid 48–72-hour turnaround with dependencies stated.
+- [ ] Comparison, showcase, four-step process, packages, FAQ, final CTA, and minimal footer match `wireframe.md`.
+- [ ] Carousel meets video attributes, 60% visibility, one-at-a-time playback, and responsive swipe behavior.
+- [ ] Package counts, caption deliverables, revision boundaries, and schedule match the approved scope.
+- [ ] `whatsapp_click` is verified in the selected analytics tool; WhatsApp link contains the agreed source/campaign attribution pattern.
+- [ ] Mobile/desktop layout, accessibility basics, and performance are reviewed before release.
+- [ ] Actual WhatsApp Business number, final video assets, and production metadata replace temporary values before launch.
+
+## 11. Commercial and legal boundaries
+
+The client confirms rights to supplied product assets, logos, music, likenesses, and voice references. NovaCast confirms dialect, pronunciation, and deliverability before quoting. Commercial usage scope and restrictions are stated in project terms. Client approval is required for claims and final creative. Neither performance nor platform acceptance is guaranteed.
